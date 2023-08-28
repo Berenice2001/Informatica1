@@ -59,4 +59,4 @@ $$
 \end{matrix}
 \end{equation} 
 $$
-pesos {\theta_1\:=\:100}
+$\theta_1\:=\:100$
