@@ -69,6 +69,8 @@ En pseudocodigo cuando no se definen funciones ni suprocesos, el programa en pse
 ```//suma.psc```
 ```BERENICE```
 ```
+el ejemplo mas simple de esta construccion es el programa suma.psc de la ayuda de PSeInt, un pequeño algoritmo que pide al usuario dos numeros para sumarlos
+```
 el ejemplo mas
 simple de esta construccion
 es el programa suma.psc
